@@ -1,14 +1,7 @@
-- 👋 Hi, I’m @szemiako
-- ⚙️ As a data engineer, I am using Python, SQL, Powershell and Informatica.
-- 👀 I am interested in using:
-  - PySpark: For event streaming
-  - Hadoop: Distributed processing
-  - HDFS: File storage system
-  - Hive: SQL-like interface for Hadoop
-  - Airflow: Job scheduler
-  - Docker: Packaged deployment container with all depdendencies
-  - Java / Scala
-- 🌱 I’m currently learning Data Science from Scratch by Joel Grus, PySpark, and Hadoop.
+- 👋 Yo whaddup, I’m @szemiako
+- ⚙️ As a data engineer, I am using `python`, `sql`, and `spark`.
+- Have a bit of experience with wrangling :huggingface: Transformers with `torch`, and messing around with other ML libraries like `sklearn`.
+- Currently interested learning `rust` for systems engineering and super fast `python` libraries.
 - 📫 How to reach me: daniel.szemiako@gmail.com
 
 <!---
